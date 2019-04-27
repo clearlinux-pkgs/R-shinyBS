@@ -4,7 +4,7 @@
 #
 Name     : R-shinyBS
 Version  : 0.61
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/shinyBS_0.61.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/shinyBS_0.61.tar.gz
 Summary  : Twitter Bootstrap Components for Shiny
